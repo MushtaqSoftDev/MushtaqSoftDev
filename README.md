@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+Software+Engineer)](https://git.io/typing-svg)
 
 ### Mushtaq Ahmad
 
@@ -41,11 +41,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/VectorDB-0D1117?style=flat-square&logo=qdrant&logoColor=white)
 
-**CMS & Tools**
+**DevOps & Tools**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
