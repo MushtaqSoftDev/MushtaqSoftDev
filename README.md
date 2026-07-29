@@ -52,7 +52,7 @@
 
 ### Certifications & Badges
 
-[![OCI Agentic AI Foundation](https://img.shields.io/badge/Oracle-OCI_AI_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A36482C329413366964504142478E799A39AB187EF52AB31A4006B12D0EEB8D5)
+[![OCI AGENTIC AI Foundation](https://img.shields.io/badge/Oracle-OCI_AGENTIC_AI_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A36482C329413366964504142478E799A39AB187EF52AB31A4006B12D0EEB8D5)
 [![OCI AI Foundation](https://img.shields.io/badge/Oracle-OCI_AI_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=87D7498209DFCB7FA22D43FF9F92C1E8D92FDF71C7B213AA45E74A3068D76C2E)
 [![OCI Gen AI Professional](https://img.shields.io/badge/Oracle-OCI_Gen_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BE78D5F2BBAC4B1212587AF6D7C5B75746EC77F5B82EEB34F073A02FAE25B07C)
 [![AWS Serverless](https://img.shields.io/badge/AWS-Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
