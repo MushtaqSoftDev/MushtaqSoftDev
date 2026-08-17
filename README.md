@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Applied+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Applied+AI+&+Data+Engineer)](https://git.io/typing-svg)
 
 ### Mushtaq Ahmad
 
