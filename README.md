@@ -41,6 +41,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/VectorDB-0D1117?style=flat-square&logo=qdrant&logoColor=white)
 
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
 **DevOps & Tools**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
